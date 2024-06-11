@@ -1,0 +1,5 @@
+newspaper3k
+nltk
+fastapi
+uvicorn[standard]
+lxml_html_clean
